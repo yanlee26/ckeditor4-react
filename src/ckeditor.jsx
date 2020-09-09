@@ -148,7 +148,7 @@ CKEditor.defaultProps = {
 	readOnly: false
 };
 
-CKEditor.editorUrl = 'https://cdn.ckeditor.com/4.15.0/standard-all/ckeditor.js';
+CKEditor.editorUrl = 'https://github.com/yanlee26/ckeditor4-react/tree/master/vendor/ckeditor/ckeditor.js';
 CKEditor.displayName = 'CKEditor';
-
+console.log(123);
 export default CKEditor;
